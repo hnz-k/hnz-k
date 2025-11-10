@@ -170,7 +170,7 @@ Web Developer	Student Projects	2024–2025	Built static + dynamic websites with 
 
 ---
 
-<div align="center">💝 Support My Work
+<div align="center"> Support My Work
 
 If you find my projects helpful, please consider supporting me!
 
