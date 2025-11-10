@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://via.placeholder.com/1200x300/0D1117/FFFFFF?text=Welcome+to+My+GitHub+Profile" alt="Welcome Banner" width="100%"/>
+<img src="https://i.pinimg.com/736x/67/31/ac/6731ac50da38ecf368d11367ca92e2a5.jpg" alt="Welcome Banner" width="100%"/>
 
 **Full-Stack Developer | AI & Web Enthusiast | Lifelong Learner**
 
