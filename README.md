@@ -177,8 +177,8 @@ If you find my projects helpful, please consider supporting me!
  
 
 <br>
-<img src="https://komarev.com/ghpvc/?username=dikzzz2201&color=blueviolet&style=flat-square" alt="Profile Views"/></div>
----
+<img src="https://komarev.com/ghpvc/?username=hnz-k&color=blueviolet&style=flat-square" alt="Profile Views"/></div>
+
 
 Last updated: November 10, 2025
 
