@@ -37,7 +37,7 @@ me = Developer()
 
 
 ---
-
+```
 🧠 Tech Stack
 
 💻 Languages & Frameworks
