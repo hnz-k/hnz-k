@@ -39,7 +39,7 @@ me = Developer()
 
 ```
 ---
- Tech Stack
+## Tech Stack
 
 💻 Languages & Frameworks
 
