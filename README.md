@@ -14,7 +14,7 @@
 
 
 ---
-## 🚀 About Me
+##  About Me
 
 
 ```python
@@ -39,7 +39,7 @@ me = Developer()
 
 ```
 ---
-🧠 Tech Stack
+ Tech Stack
 
 💻 Languages & Frameworks
 
