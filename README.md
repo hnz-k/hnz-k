@@ -20,7 +20,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Dikzzz"
+        self.name = "hnz-k"
         self.role = "Full Stack Developer"
         self.location = "Indonesia"
         self.passion = "Building creative web and AI-powered tools"
