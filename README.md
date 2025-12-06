@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="https://i.pinimg.com/736x/67/31/ac/6731ac50da38ecf368d11367ca92e2a5.jpg" alt="Welcome Banner" width="100%"/>
-
 **Full-Stack Developer | AI & Web Enthusiast | Lifelong Learner**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio-link.com)
